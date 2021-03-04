@@ -1,0 +1,8 @@
+/*
+Theme name: Dizayn
+*/
+@media (min-width: 769px) and (max-width: 1440px) {
+	#menu-top_menu {
+		width: 55%;
+	}
+}
